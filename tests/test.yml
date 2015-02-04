@@ -2,7 +2,7 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - geerlingguy.php
+    - paulthed.php
     - geerlingguy.composer
     - geerlingguy.git
     - ansible-role-drush

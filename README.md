@@ -33,7 +33,7 @@ Whether to keep Drush up-to-date with the latest revision of the branch specifie
 ## Dependencies
 
   - geerlingguy.git (Installs Git).
-  - geerlingguy.php (Installs PHP).
+  - paulthed.php (Installs PHP).
   - geerlingguy.composer (Installs Composer).
 
 ## Example Playbook
